@@ -1,3 +1,4 @@
 'use strict'
 
-module.exports = require('./lib/OverflowView.js');
+import OverflowView from './lib/OverflowView'
+export {OverflowView}
