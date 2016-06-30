@@ -10,11 +10,6 @@
     "type": "git",
     "url": "http://123.56.190.175/rusty/iTO-react-native.git"
   },
-  "devDependencies": {
-    "babel-cli": "^6.9.0",
-    "babel-preset-es2015": "^6.9.0",
-    "babel-preset-react": "^6.3.13"
-  },
   "keywords": [
     "wuhu030+"
   ],
